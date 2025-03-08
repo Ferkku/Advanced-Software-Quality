@@ -1,4 +1,5 @@
 .venv
+.env
 results.txt
 /repos
 /faiss_index_base
