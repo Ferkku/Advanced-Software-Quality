@@ -1,6 +1,4 @@
 .venv
 .env
-results.txt
+/results
 /repos
-/faiss_index_base
-/faiss_index_compare
