@@ -1,0 +1,20 @@
+[
+    {
+        "BASE": "test_base",
+        "FORK": "test_fork1",
+        "generation_time": 10.5,
+        "analysis": "test json output 1"
+    },
+    {
+        "BASE": "test_base",
+        "FORK": "test_fork2",
+        "generation_time": 20.00,
+        "analysis": "test json output 2"
+    },
+    {
+        "BASE": "test_base",
+        "FORK": "test_fork3",
+        "generation_time": 5.8,
+        "analysis": "test json output 3"
+    }
+]
